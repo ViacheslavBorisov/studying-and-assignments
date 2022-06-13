@@ -1,0 +1,1 @@
+We maked new file "portableGitTest to testing new git portable version
