@@ -1,2 +1,3 @@
 We maked new file "portableGitTest to testing new git portable versin
 And just now we will begin to make a new brunch by portable git. This file will go to this brunch.
+And make more changes in portgit.txt in the new branche.
